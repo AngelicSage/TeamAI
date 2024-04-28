@@ -7,4 +7,9 @@
 3. Decided to work with a 2b version of Gemma and write our own code in tensorflow
 4. Then, we decided to go with a 7b quantized version of Gemma, which we used HuggingFace for, so the training code also had to change
 5. We looked at our competitors’ code, and copied a notebook from #2 who had a score of 20, Team “Yeah”
-6. We added our concatenated data to the code, and then changed the pipeline to suit the new data
+6. We added our concatenated data to the code
+7. Adjusted code to fill the solutions
+   - in the midst of this, we ran into errors with both gemini 1, gemini 1.5 pro, and chatgpt 4.
+   - We decided to check some of the data by comparing the model's performance with just the competition's data versus the other data 
+9.  Changed the pipeline to suit the new data
+10. 
