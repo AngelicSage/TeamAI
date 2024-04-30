@@ -1,4 +1,4 @@
-# These are projects my team members and I worked together to create
+# AI Mathematical Olympiad
 
 ## Documentation
 
