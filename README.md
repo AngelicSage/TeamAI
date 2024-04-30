@@ -14,5 +14,6 @@
    - The problem was AI's mathematical capabilities as a whole
    - Even with providing AI with the answers along with each problem, it could not find the proper steps to get the answer
    - We allowed models to generate code to improve mathematical reasoning, though it did not end well - suggested by @Boltuzamaki
+   - Decision to go with data that already has the work shown
 9.  Changed the pipeline to suit the new data 
 10. 
