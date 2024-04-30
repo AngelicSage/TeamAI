@@ -16,6 +16,5 @@
    - We allowed models to generate code to improve mathematical reasoning, though it did not end well - suggested by @Boltuzamaki
    - Decision to go with data that already has the work shown
 9.  Changed the pipeline to suit the new data - @KivDrag & Boltuzamaki
-10. 
 
 Everything that does not have an assigned person to them was because everyone collaborated on those aspects :)
